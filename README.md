@@ -1,3 +1,5 @@
+提供获取当前Android手机所有运行的app进程信息
+
 <h1 align="center">AndroidProcesses</h1>
 <h1 align="center">提供获取当前手机所有运行的app进程信息</h1>
 <h4 align="center">A small Android library to get the current running processes</h4>
